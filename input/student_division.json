@@ -1,0 +1,24 @@
+{
+    "CBSE":{
+        "5 - 8":["m","s","cs"],
+        "9 - 10":["m","p","b","c","cs"],
+        "11 - 12":["m","p","c","cs"],
+        "10 - currentYear":["m","p","c","b","cs"],
+        "12 - currentYear":["m","p","c","cs"]
+    },
+    "ICSE":{
+        "5 - 7":["m","s","cs"],
+        "8 - 10":["m","p","b","c","cs"],
+        "11 - 12":["m","p","c","cs"],
+        "10 - currentYear":["m","p","c","b","cs"],
+        "12 - currentYear":["m","p","c","cs"]
+    },
+    "State":{
+        "5 - 8":["m","s","cs"],
+        "9 - 10":["m","p","b","c","cs"],
+        "11 - 12":["m","p","c","cs"],
+        "10 - currentYear":["m","p","c","b","cs"],
+        "11 - currentYear":["m","p","c","cs"],
+        "12 - currentYear":["m","p","c","cs"]
+    }
+}
