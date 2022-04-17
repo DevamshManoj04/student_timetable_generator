@@ -1,24 +1,24 @@
 {
     "CBSE":{
-        "5 - 8":["m","s","cs"],
-        "9 - 10":["m","p","b","c","cs"],
-        "11 - 12":["m","p","c","cs"],
-        "10 - currentYear":["m","p","c","b","cs"],
-        "12 - currentYear":["m","p","c","cs"]
+        "5 - 8":["M","S","CS"],
+        "9 - 10":["M","P","B","C","CS"],
+        "11 - 12":["M","P","C","CS"],
+        "10 - currentYear":["M","P","C","B","CS"],
+        "12 - currentYear":["M","P","C","CS"]
     },
     "ICSE":{
-        "5 - 7":["m","s","cs"],
-        "8 - 10":["m","p","b","c","cs"],
-        "11 - 12":["m","p","c","cs"],
-        "10 - currentYear":["m","p","c","b","cs"],
-        "12 - currentYear":["m","p","c","cs"]
+        "5 - 7":["M","S","CS"],
+        "8 - 10":["M","P","B","C","CS"],
+        "11 - 12":["M","P","C","CS"],
+        "10 - currentYear":["M","P","C","B","CS"],
+        "12 - currentYear":["M","P","C","CS"]
     },
     "State":{
-        "5 - 8":["m","s","cs"],
-        "9 - 10":["m","p","b","c","cs"],
-        "11 - 12":["m","p","c","cs"],
-        "10 - currentYear":["m","p","c","b","cs"],
-        "11 - currentYear":["m","p","c","cs"],
-        "12 - currentYear":["m","p","c","cs"]
+        "5 - 8":["M","S","CS"],
+        "9 - 10":["M","P","B","C","CS"],
+        "11 - 12":["M","P","C","CS"],
+        "10 - currentYear":["M","P","C","B","CS"],
+        "11 - currentYear":["M","P","C","CS"],
+        "12 - currentYear":["M","P","C","CS"]
     }
 }
